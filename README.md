@@ -17,9 +17,9 @@
 
 1. Клонируйте репозиторий:
 
-   ```bash
-   git clone https://github.com/k0unstan/tui_calc_go.git
-   ```
+```bash
+git clone https://github.com/k0unstan/tui_calc_go.git
+```
 
 2. Перейдите в директорию проекта:
 
