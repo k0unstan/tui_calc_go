@@ -19,19 +19,19 @@
 
    ```bash
    git clone https://github.com/k0unstan/tui_calc_go.git
-   ```bash
+   ```
 
 2. Перейдите в директорию проекта:
 
 ```bash
 cd tui_calc_go
-```bash
+```
 
 3. Установите зависимости:
 
 ```bash
 go mod tidy
-```bash
+```
 
 ### Использование
 
@@ -39,7 +39,7 @@ go mod tidy
 
 ```bash
 go run main.go
-```bash
+```
 
 2. Следуйте инструкциям на экране для выполнения арифметических операци
 
